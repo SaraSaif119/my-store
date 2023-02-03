@@ -1,0 +1,32 @@
+.div1{
+    width: 220px;
+    height: 350px;
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+.div2{
+    background-color: hsl(213, 35%, 13%);
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    top: 10%;
+    left: 92%;
+    color: aliceblue;
+    visibility: hidden;
+}
+.circle{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+    margin-top: -10px;
+    text-align: center;
+    color: aliceblue;
+    position: relative;
+    visibility: hidden;
+}
+.i1{
+    color: aliceblue;
+}
